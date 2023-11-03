@@ -1,5 +1,8 @@
-import styles from "./homepage.module.css";
+
+import  "./homepage.scss";
 
 export default function Home() {
-  return <div>Hello</div>;
+  return <div className="home">
+
+  </div>;
 }
